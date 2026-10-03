@@ -36,7 +36,7 @@ int main()
     case 4:
         if(b==0)
         {
-            printf("division= undefined",a/b);
+            printf("division= undefined");
         }
         else
         {
