@@ -36,7 +36,7 @@ int main()
     case 4:
         if(b==0)
         {
-            printf("division by zero is not allowed");
+           printf("division by zero is notallowed");
         }
         else
         {
