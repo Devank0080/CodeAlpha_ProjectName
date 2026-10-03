@@ -12,8 +12,6 @@ int main()
 
     printf("***** SIMPLE CALCULATOR ******\n");
 
-    printf("enter your choice\n");
-
     printf("1.addition\n");
     printf("2.subtraction\n");
     printf("3.multiplication\n");
