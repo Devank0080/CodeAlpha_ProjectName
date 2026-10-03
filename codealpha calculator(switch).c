@@ -40,7 +40,7 @@ int main()
         }
         else
         {
-            printf("division=%.2f",a/b);
+          printf("division=%.2f",a/b);
         }
         break;
     default:
